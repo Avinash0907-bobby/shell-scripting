@@ -21,7 +21,7 @@ test.google3.com
 test.google4.com
 test.google5.com
 
-[DevTest:children]
+[DevTest:ch]
 test
 dev
 
