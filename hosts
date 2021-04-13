@@ -14,3 +14,15 @@ prod.google4.com
 prod.google5.com
 prod.google6.com
 
+[test]
+test.google1.com
+test.google2.com
+test.google3.com
+test.google4.com
+test.google5.com
+
+[DevTest:children]
+test
+dev
+
+
